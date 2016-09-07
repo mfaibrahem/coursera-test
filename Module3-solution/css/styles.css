@@ -5,6 +5,10 @@ body {
 	font-family: 'Oxygen', sans-serif;
 }
 /* Header */
+
+#header-nav {
+	border-radius: 0;
+}
 .navbar-brand {
 	padding: 0;
 }
