@@ -37,7 +37,7 @@ body {
 
 /* Home page */
 #main-content {
-	margin-top: 50px;
+	margin-top: 30px;
 }
 
 #main-content .row h2 {
@@ -82,10 +82,6 @@ section.sec3 {
 	}
 	#nav-list a {
 		font-size: 1.2em;
-	}
-
-	#main-content {
-		margin-top: 190px;
 	}
 }
 
